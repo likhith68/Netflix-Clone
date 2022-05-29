@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+.app {
+    background-color: #111;
+}
+
+@media (max-width: 768px) {
+    .app {
+        max-width: 758px;
+        overflow-y: scroll;
+    }
+    .app::-webkit-scrollbar {
+        display: none;
+    }
+}
