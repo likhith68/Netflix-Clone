@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Netflix-Clone using React JS ,Tmdb and Firebase
+
+It is identical to Netflix Web App and its Mobile responsive as well. 
+React Js for Front End Development , Tmdb Api to retrieve all the required data and Firebase for Hosting.
+
+
+## Deployed this Project :)
+Check it out==>
+Link-->https://netflix-clone-cc47e.web.app
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
